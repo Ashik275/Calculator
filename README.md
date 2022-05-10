@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+# This is a Calculator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## Live site link
+   https://optimistic-lumiere-c96892.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
